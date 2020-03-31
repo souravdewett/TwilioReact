@@ -4,7 +4,7 @@
   "description": "Simple Video Chat app Using React",
   "main": "index.js",
   "repository": "git@github.com:kimobrian/TwilioReact.git",
-  "author": "O'Brian Kim",
+  "author": "Phyxable",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.1",
